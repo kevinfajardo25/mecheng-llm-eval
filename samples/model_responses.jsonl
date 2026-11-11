@@ -1,0 +1,15 @@
+{"id": "ME-001", "model": "sample-model", "response": "I = b h^3 / 12 = 0.03 * 0.06^3 / 12 = 5.4e-7 m^4.\ndelta = P L^3 / (3 E I) = 2000 * 3.375 / (3 * 200e9 * 5.4e-7) = 0.02083 m.\nFinal answer: 20.8 mm"}
+{"id": "ME-002", "model": "sample-model", "response": "I = pi/64 * 0.05^4 = 3.068e-7 m^4.\ndelta = 5 w L^4 / (384 E I) = 5 * 1500 * 16 / (384 * 69e9 * 3.068e-7) = 0.01476 m.\nFinal answer: 14.8 mm"}
+{"id": "ME-003", "model": "sample-model", "response": "sigma_vm = sqrt(90^2 - 90(-30) + (-30)^2 + 3(-40)^2) = sqrt(16500) = 128.45 MPa.\nFinal answer: 128.5 MPa"}
+{"id": "ME-004", "model": "sample-model", "response": "tau = 32 T / (pi d^3) = 32 * 800 / (pi * 0.04^3) = 127.3 MPa.\nFinal answer: 127.3 MPa"}
+{"id": "ME-005", "model": "sample-model", "response": "omega = 2 pi (1450) / 60 = 151.84 rad/s. T = 15000 / 151.84 = 98.8 N*m.\nFinal answer: 98.8 N·m"}
+{"id": "ME-006", "model": "sample-model", "response": "Soderberg line: 1/n = 120/250 + 180/560 = 0.80143, n = 1.248.\nFinal answer: 1.25"}
+{"id": "ME-007", "model": "sample-model", "response": "Fp = 84.3 * 600 = 50,580 N. Fi = 0.75 * Fp = 37,935 N. T = 0.2 * 37935 * 0.012 = 91.04 N*m = 67.1 lbf*ft.\nFinal answer: 67.15 lbf*ft"}
+{"id": "ME-008", "model": "sample-model", "response": "Total resistance = 0.30 + 0.15 + 0.90 = 1.35 K/W. Tj = 35 + 40 * 1.35 = 89 C.\nFinal answer: 89 °C"}
+{"id": "ME-009", "model": "sample-model", "response": "sigma_h = p D / t = 1.2e6 * 1.0 / 0.008 = 150 MPa.\nFinal answer: 150 MPa"}
+{"id": "ME-010", "model": "sample-model", "response": "Overall ratio = 3 * 3 = 9, so output torque = 10 * 9 = 90 N*m.\nFinal answer: 90 N*m"}
+{"id": "ME-011", "model": "sample-model", "response": "I = pi d^4 / 64 = 7.854e-9 m^4. Pcr = pi^2 E I / L^2 = 9.8696 * 200e9 * 7.854e-9 / 1.44 = 10,766 N.\nFinal answer: 10766 N"}
+{"id": "ME-012", "model": "sample-model", "response": "The bar cannot expand, so sigma = E alpha dT = 200e9 * 12e-6 * 60 = 144 MPa compressive.\nFinal answer: 144 MPa (compressive)"}
+{"id": "ME-013", "model": "sample-model", "response": "k = G d^4 / (8 D^3 Na) = 79.3e9 * 8.1e-11 / (8 * 1.3824e-5 * 10) = 5808 N/m, about 5.8 N/mm."}
+{"id": "ME-014", "model": "sample-model", "response": "L10 = (30/5)^3 = 216 million revolutions. Life = 216e6 / 1200 = 180,000 hours.\nFinal answer: 180,000 h"}
+{"id": "ME-015", "model": "sample-model", "response": "omega_n = sqrt(k/m) = sqrt(50000/2) = 158.1.\nFinal answer: 158.1 rad/s"}
